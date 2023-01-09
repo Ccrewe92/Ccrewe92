@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ My name is Clinton A Crewe
+ 
+ Currently in my second semester at Southern Alberta Institute of Technology (SAIT) for Software Development.
+ 
+ ## ⚡ Fun Fact
+ 
+ I have spent the last 10 years working in oil and gas/mining industry. I have indepth knowledge in open pit mining, heavy machinery, safety, blue prints, processing.  
+ 
+ ## Skills
+ ![HTML](img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg")
+ 
+ ## Right Now I am Learning
+ 
+ - Object Oriented Programming
+ - UI/UX Design
+ - Software Analysis and Design
+ - Database Deisgn and Programming
+ 
+ 

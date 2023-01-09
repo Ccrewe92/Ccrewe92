@@ -40,18 +40,18 @@ My goal is to contunine my growth throguh certifcates, schooling and work expere
 
 ## 📃 Certificates/Badges
 
--Learning Git and GitHub
--Cisco Introduction to Cybersecurity
--Cisco IT Essentials (In progress)
+- Learning Git and GitHub
+- Cisco Introduction to Cybersecurity
+- Cisco IT Essentials (In progress)
 
 ## Areas of Expertise
 
--Information Technology
--Staff Training and Development
--Team Leadership & Supervision Techniques
--Project Administration
--Client Service Relationships
--Quality Control Initiatives
+- Information Technology
+- Staff Training and Development
+- Team Leadership & Supervision Techniques
+- Project Administration
+- Client Service Relationships
+- Quality Control Initiatives
 
 ## 📫 Contact Me
 

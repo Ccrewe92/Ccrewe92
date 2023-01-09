@@ -52,6 +52,7 @@ My goal is to contunine my growth throguh certifcates, schooling and work expere
 - Project Administration
 - Client Service Relationships
 - Quality Control Initiatives
+- Oil and Gas / Mining
 
 ## 📫 Contact Me
 

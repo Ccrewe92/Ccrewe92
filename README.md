@@ -19,19 +19,43 @@ Here are some ideas to get you started:
  
  Currently in my second semester at Southern Alberta Institute of Technology (SAIT) for Software Development.
  
- ## ⚡ Fun Fact
+## ⚡ Fun Fact
  
  I have spent the last 10 years working in oil and gas/mining industry. I have indepth knowledge in open pit mining, heavy machinery, safety, blue prints, processing.  
  
- ## Expereicne With
+## 👍 Expereicne With
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50" width="50">
 
  
- ## Right Now I am Learning
+## 🌱 Right Now I am Learning
  
  - Object Oriented Programming
  - UI/UX Design
  - Software Analysis and Design
  - Database Deisgn and Programming
+
+## 💭 Personal Growth
+
+My goal is to contunine my grwoth throguh certifcates, schooling and work expereicne to become a full stack developer, focusing in cyber secuirty and cloud.
+
+## 📃 Certificates/Badges
+
+-Learning Git and GitHub
+-Cisco Introduction to Cybersecurity
+-Cisco IT Essentials (In progress)
+
+## Areas of Expertise
+
+-Information Technology
+-Staff Training and Development
+-Team Leadership & Supervision Techniques
+-Project Administration
+-Client Service Relationships
+-Quality Control Initiatives
+
+## 📫 Contact Me
+
+Creweclinton@live.com
+
  
  

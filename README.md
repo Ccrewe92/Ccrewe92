@@ -23,8 +23,9 @@ Here are some ideas to get you started:
  
  I have spent the last 10 years working in oil and gas/mining industry. I have indepth knowledge in open pit mining, heavy machinery, safety, blue prints, processing.  
  
- ## Skills
+ ## Programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="50" width="50">
  
  ## Right Now I am Learning
  

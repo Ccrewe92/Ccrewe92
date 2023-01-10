@@ -44,7 +44,7 @@ My goal is to contunine my growth throguh certifcates, schooling and work expere
 - Cisco Introduction to Cybersecurity
 - Cisco IT Essentials (In progress)
 
-## Areas of Expertise
+## 💡 Areas of Expertise
 
 - Information Technology
 - Staff Training and Development

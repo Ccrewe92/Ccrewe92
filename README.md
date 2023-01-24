@@ -36,13 +36,14 @@ Here are some ideas to get you started:
 
 ## 💭 Personal Growth
 
-My goal is to contunine my growth throguh certifcates, schooling and work expereicne to become a full stack developer, focusing in cyber secuirty and cloud.
+My goal is to continue my growth throguh certificates, schooling and work expereicne to become a full stack developer, focusing in cyber secuirty and cloud.
 
 ## 📃 Certificates/Badges
 
 - Learning Git and GitHub
 - Cisco Introduction to Cybersecurity
 - Cisco IT Essentials (In progress)
+- AWS Cloud Practitioner (In progress)
 
 ## 💡 Areas of Expertise
 

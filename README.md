@@ -2,7 +2,10 @@
  
 I'm an experienced, accomplished Heavy Equipment operator and Operations Supervior with over a decade of experience in oil and gas! After many years in the industry i decided to pursue my passions and transition into the IT sector. I'm currently a Second year student in my third semester at SAIT pursuing my diploma in Software Development. I own a company called RyujinIT Services where I provide a suite of services, like building and repairing computers, troubleshooting and fixing IT related issues, and helping my local community. 
  
-
+## Connect With Me
+| Socials | My Websites |
+|---------|-------------|
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([LINK_TO_YOUR_LINKEDIN](https://www.linkedin.com/in/clintonacrewe/)) | [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](LINK_TO_YOUR_PORTFOLIO) |
 
 ## Expereicne With
 | Category         | Tools |

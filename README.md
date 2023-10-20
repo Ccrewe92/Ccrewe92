@@ -17,16 +17,17 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 
 <table width="100%">
   <tr>
-    <td align="center" width="75%">
+    <td align="center" width="50%">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="500px" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy&column=3" />
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
     </td>
   </tr>
 </table>
+
 
 ## 📜 Certificates
 

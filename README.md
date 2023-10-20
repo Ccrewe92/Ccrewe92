@@ -13,27 +13,26 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 | **Databases**     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Tools & Others**| ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 
 
- 
 ## My GitHub Stats
 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
+        <img width="500px" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
       </a>
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
     </td>
   </tr>
 </table>
 
 
-## Certificates
+## 📜 Certificates
 
-- CompTIA A+ (In Pursuite)
-- AWS Cloud Practitioner (In Pursuite)
+- **CompTIA A+** - *In Pursuit*
+- **AWS Cloud Practitioner** - *In Pursuit*
 
 
  

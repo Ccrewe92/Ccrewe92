@@ -14,9 +14,14 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 | **Tools & Others**| ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 
 
  
-##My GitHub Stats
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact)
+## My GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
+  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
+</div>
 
 
 ##Certificates

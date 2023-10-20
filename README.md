@@ -1,6 +1,6 @@
 ### Hey, My Name is Clinton Crewe👋
  
-I'm an experienced, accomplished Heavy Equipment operator and Operations Supervior with over a decade of experience in oil and gas! After many years in the industry i decided to pursue my passions and transition into the IT sector. I'm currently a Second year student in my third semester at SAIT pursuing my diploma in Software Development. I own a company called RyujinIT Services where I provide a suite of services, like building and repairing computers, troubleshooting and fixing IT related issues, and helping my local community. 
+I'm an experienced, accomplished Heavy Equipment operator and Operations Supervisor with over a decade of experience in oil and gas! After many years in the industry i decided to pursue my passions and transition into the IT sector. I'm currently a Second year student in my third semester at SAIT pursuing my diploma in Software Development. I own a company called RyujinIT Services where I provide a suite of services, like building and repairing computers, troubleshooting and fixing IT related issues, and helping my local community. 
  
 ## Connect With Me
 | Socials | My Websites |

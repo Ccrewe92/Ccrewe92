@@ -4,7 +4,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
  
 
 
-##Expereicne With
+## Expereicne With
 | Category         | Tools |
 |------------------|-------|
 | **Languages**    | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -18,19 +18,19 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
       </a>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
     </td>
   </tr>
 </table>
 
 
-##Certificates
+## Certificates
 
 - CompTIA A+ (In Pursuite)
 - AWS Cloud Practitioner (In Pursuite)

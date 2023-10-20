@@ -16,7 +16,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
  
 ## 🌱 Right Now I am Learning
  
- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CCrewe92&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💭 Personal Growth
 

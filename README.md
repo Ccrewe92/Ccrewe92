@@ -4,7 +4,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
  
 
 
-## 👍 Expereicne With
+##Expereicne With
 | Category         | Tools |
 |------------------|-------|
 | **Languages**    | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -14,29 +14,15 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 | **Tools & Others**| ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 
 
  
-## 🌱 Right Now I am Learning
+##My GitHub Stats
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy)](https://github.com/ryo-ma/github-profile-trophy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact)
 
-## 💭 Personal Growth
 
-My goal is to continue my growth throguh certificates, schooling and work expereicne to become a developer, focusing in cyber secuirty and cloud.
-
-## 📃 Certificates
+##Certificates
 
 - CompTIA A+ (In Pursuite)
 - AWS Cloud Practitioner (In Pursuite)
-
-## 💡 Areas of Expertise
-
-- Information Technology
-- Staff Training and Development
-- Team Leadership & Supervision Techniques
-- Project Administration
-- Client Service Relationships
-- Quality Control Initiatives
-- Oil and Gas / Mining
-
 
 
  

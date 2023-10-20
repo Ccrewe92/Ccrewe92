@@ -5,7 +5,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 ## Connect With Me
 | Socials | My Websites |
 |---------|-------------|
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([LINK_TO_YOUR_LINKEDIN](https://www.linkedin.com/in/clintonacrewe/)) | [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](LINK_TO_YOUR_PORTFOLIO) |
+| [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/clintonacrewe/) | [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](LINK_TO_YOUR_PORTFOLIO) |
 
 ## Expereicne With
 | Category         | Tools |

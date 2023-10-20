@@ -26,7 +26,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCrewe92&layout=compact&count_private=true" />
     </td>
   </tr>
 </table>

@@ -19,7 +19,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="500px" src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
+        <img  style="width:100%; src="https://github-profile-trophy.vercel.app/?username=CCrewe92&theme=onedark&title=Repositories,Stars,Commit,Followers,Trophy" />
       </a>
     </td>
     <td align="center" width="50%">

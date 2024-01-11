@@ -36,7 +36,7 @@ I'm an experienced, accomplished Heavy Equipment operator and Operations Supervi
 
 - **ISC2 Cyber Security Certified** - *January 2024
 - **CompTIA A+** - *In Pursuit*
-- **AWS Cloud Practitioner** - *In Pursuit*
+- **AWS Cloud Arhchitect** - *In Pursuit*
 
 
  
